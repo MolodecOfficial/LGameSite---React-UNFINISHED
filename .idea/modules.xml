@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ReactBeta.iml" filepath="$PROJECT_DIR$/.idea/ReactBeta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LGameSite.iml" filepath="$PROJECT_DIR$/.idea/LGameSite.iml" />
     </modules>
   </component>
 </project>
