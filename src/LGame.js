@@ -49,6 +49,7 @@ function LGame() {
                        height: "calc(10vh)",
                        width: "calc(25%)",
                        justifyContent: "space-evenly",
+
                    }}>
                   <button type="button" className="log-reg-btn"
                           style={{
@@ -75,7 +76,7 @@ function LGame() {
                               backgroundColor: "transparent",
                               borderRadius: "25px 25px 0 25px",
                               fontSize: 20,
-                              cursor: "pointer",
+                              cursor: "pointer"
                           }}>
                       Скачать лаунчер
                   </button>
@@ -93,9 +94,10 @@ function LGame() {
               left: 170,
               color: "wheat",
               fontSize: 40,
+              fontWeight: "bolder"
 
           }}>LGame Studio
-              дада</p>
+              Это что то невероятное</p>
           </div>
           <div className="mastertech">
               <img src={mastertech}
