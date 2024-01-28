@@ -108,7 +108,7 @@ function LGame() {
                   borderRadius: 40,
                   zIndex: -1,
                   top: "calc(25vh)",
-                  left: "calc(120vh)"
+                  left: "calc(120vh)",
 
               }}/>
           </div>
