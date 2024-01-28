@@ -8,7 +8,6 @@ import LGameIcon from './assets/lgame_icon.png'
 
 function LGame() {
   return (
-      <body>
       <div className="main-page">
           <video src={background} autoPlay loop muted
           style={{
@@ -113,7 +112,6 @@ function LGame() {
               }}/>
           </div>
       </div>
-      </body>
   );
 }
 
